@@ -1,0 +1,6 @@
+# 301 Redirects - Nastavení přesměrování pro SEO
+# Příklad: /stara-url /nova-url 301
+
+/piskovani /sluzby/kabinove-piskovani 301
+/mobilni /sluzby/mobilni-piskovani 301
+/sluzby/tryskani /sluzby/kabinove-piskovani 301

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piskovanivysocina.cz/sitemap.xml
+
+# Pískování Vysočina

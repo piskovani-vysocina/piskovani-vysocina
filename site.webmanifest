@@ -1,0 +1,10 @@
+{
+  "name": "Pískování Vysočina",
+  "short_name": "Pískování Vysočina",
+  "lang": "cs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8a1f68",
+  "icons": [{ "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }]
+}
